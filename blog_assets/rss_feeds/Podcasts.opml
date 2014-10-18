@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<opml version="1.0">
+<head>
+	<title>iTunes Subscribed Feeds</title>
+	<dateCreated>Sat, 04 Aug 2012 22:24:24 GMT</dateCreated>
+	<dateModified>Sat, 04 Aug 2012 22:24:24 GMT</dateModified>
+</head>
+<body>
+	<outline text="This American Life" type="rss" xmlUrl="http://feeds.thisamericanlife.org/talpodcast" htmlUrl="http://www.thisamericanlife.org" />
+	<outline text="The Stack Exchange Podcast" type="rss" xmlUrl="http://blog.stackoverflow.com/index.php?feed=podcast" htmlUrl="http://blog.stackoverflow.com" />
+	<outline text="Keith and The Girl" type="rss" xmlUrl="http://www.keithandthegirl.com/Rss/" htmlUrl="http://www.KeithandTheGirl.com" />
+	<outline text="A Life Well Wasted" type="rss" xmlUrl="http://www.alifewellwasted.com/episodes/episodes.xml" htmlUrl="http://www.alifewellwasted.com" />
+	<outline text="Security Now!" type="rss" xmlUrl="http://leoville.tv/podcasts/sn.xml" htmlUrl="http://grc.com/securitynow.htm" />
+	<outline text="this WEEK in TECH - MP3 Edition" type="rss" xmlUrl="http://leoville.tv/podcasts/twit.xml" htmlUrl="http://thisWEEKinTECH.com" />
+	<outline text="The Moth Podcast" type="rss" xmlUrl="http://feeds.themoth.org/themothpodcast" htmlUrl="http://www.themoth.org" />
+	<outline text="NPR: Planet Money Podcast" type="rss" xmlUrl="http://www.npr.org/rss/podcast.php?id=510289" htmlUrl="http://www.npr.org/planetmoney" />
+	<outline text="The History of Rome" type="rss" xmlUrl="http://feeds.feedburner.com/TheHistoryOfRome" htmlUrl="http://thehistoryofrome.typepad.com/the_history_of_rome/" />
+	<outline text="Dan Carlin's Hardcore History" type="rss" xmlUrl="http://feeds.feedburner.com/dancarlin/history?format=xml" htmlUrl="http://www.dancarlin.com" />
+	<outline text="Entrepreneurial Thought Leaders" type="rss" xmlUrl="http://www.stanford.edu/group/edcorner/uploads/podcast/EducatorsCorner.xml" htmlUrl="http://ecorner.stanford.edu" />
+	<outline text="Venture Voice" type="rss" xmlUrl="http://www.venturevoice.com/vv.xml" htmlUrl="http://www.venturevoice.com/" />
+	<outline text="The Skeptics' Guide to the Universe" type="rss" xmlUrl="http://www.theskepticsguide.org/feed/rss.aspx?feed=SGU" htmlUrl="http://www.theskepticsguide.org/sgu.aspx?MasterPodcastId=1" />
+	<outline text="Latest in Paleo" type="rss" xmlUrl="http://feeds.feedburner.com/PaleoPodcast" htmlUrl="http://5by5.tv/paleo" />
+	<outline text="Freakonomics Radio" type="rss" xmlUrl="http://feeds.feedburner.com/freakonomicsradio" htmlUrl="http://www.wnyc.org/articles/freakonomics-podcast/" />
+	<outline text="WNYC's Radiolab" type="rss" xmlUrl="http://feeds.wnyc.org/radiolab" htmlUrl="http://www.radiolab.org/series/podcasts/" />
+	<outline text="גלי צה&#34;ל - המילה האחרונה" type="rss" xmlUrl="http://podcast.glz.fm/glz/mila" htmlUrl="http://glz.fm" />
+	<outline text="עושים היסטוריה! עם רן לוי Making History! with Ran" type="rss" xmlUrl="http://www.icast.co.il/Rss.aspx?ID=50587" htmlUrl="http://www.icast.co.il/default.aspx?p=podcast&#38;ID=50587" />
+	<outline text="The New York City Crime Report with Pat Dixon" type="rss" xmlUrl="http://feeds.feedburner.com/TheNewYorkCityCrimeReportWithPatDixon" htmlUrl="http://cavecomedyradio.com" />
+	<outline text="Радио 70%" type="rss" xmlUrl="http://seventypercent.rpod.ru/rss.xml" htmlUrl="http://seventypercent.rpod.ru/" />
+	<outline text="Jay and Silent Bob Get Old - SModcast.com" type="rss" xmlUrl="http://jsbgetold.smodcast.libsynpro.com/rss" htmlUrl="http://www.smodcast.com/getold/" />
+	<outline text="The Joe Rogan Experience" type="rss" xmlUrl="http://joeroganexp.joerogan.libsynpro.com/rss" htmlUrl="http://blog.joerogan.net" />
+	<outline text="State of the Game" type="rss" xmlUrl="http://feeds.feedburner.com/State-of-the-Game" htmlUrl="http://sotg-sc2.blogspot.com/" />
+	<outline text="Radio Free Python" type="rss" xmlUrl="http://radiofreepython.com/medium_quality.rss" htmlUrl="http://www.radiofreepython.com/" />
+	<outline text="TWiT Live Specials MP3" type="rss" xmlUrl="http://leoville.tv/podcasts/ces.xml" />
+	<outline text="Giant Bombcast" type="rss" xmlUrl="http://www.giantbomb.com/podcast-xml/" htmlUrl="http://www.giantbomb.com/podcast/" />
+	<outline text="A Smart Bear: Startups and Marketing for Geeks" type="rss" xmlUrl="http://feeds2.feedburner.com/blogspot/smartbear" htmlUrl="http://blog.asmartbear.com" />
+	<outline text="AVC.fm" type="rss" xmlUrl="http://avc.fm/podcast" htmlUrl="http://avc.fm/" />
+	<outline text="The Sporkful" type="rss" xmlUrl="http://sporkful.libsyn.com/rss" htmlUrl="http://www.sporkful.com" />
+</body>
+</opml>

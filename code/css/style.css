@@ -1,0 +1,32 @@
+body {
+    background: #000000;
+    color:white;
+}
+
+#ascii_art_banner {
+    float: left;
+    margin: 10px;
+    font-family: "Lucida Console", monospace;
+}
+
+.copyright {
+    text-align: center;
+    color: gray;
+    font-size: small;
+}
+
+#main_area {
+    text-align: center;
+    margin:30px;
+    background: #151515;
+}
+
+.dashboard-image {
+    box-shadow: 3px 3px 10px black;
+    margin: 15px;
+    border: 1px solid;
+    border-color: transparent;
+    border-radius: 4px;
+}
+
+img.dashboard-image:hover {border:1px solid #808080;}
